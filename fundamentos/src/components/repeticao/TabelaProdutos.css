@@ -1,0 +1,15 @@
+
+table {
+    text-align: center;
+    width: 100%;
+    background-color: #ffffff;
+}
+table th {
+    background-color: #83d41d;
+}
+table td {
+    border: 1px solid transparent;
+}
+.Par {
+    background-color: #afafaf;
+}

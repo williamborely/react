@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    background-color: rgb(105, 105, 105);
+    color: #fff;
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+* {
+    font-weight: 200;
+    font-family: 'Economica', sans-serif;
+}
+
+p{
+ margin: 0;   
+}
