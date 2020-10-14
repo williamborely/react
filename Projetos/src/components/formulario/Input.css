@@ -1,0 +1,5 @@
+div .Input div {
+    display: flex;
+    flex-direction: column;
+    
+}

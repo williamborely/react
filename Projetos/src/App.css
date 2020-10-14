@@ -1,0 +1,57 @@
+ html, body {
+  background-color: #007bff;
+  background-image: url("https://www.transparenttextures.com/patterns/cream-pixels.png");
+ }
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color:#007bff5f; 
+  color: #000000;
+  width: 100%;
+  overflow: hidden;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column 2;;
+}
+
+.Card .Content {
+  flex-direction: column;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.btn-default {
+  box-shadow: 0px 0px 3px 0px #000;
+}
+
+.markedAsDone {
+  text-decoration: line-through;
+  color: #006616;
+}
+
+.tableActions {
+  width: 105px;
+}
+
+.todoForm {
+  justify-content: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: 100%;
+}
+
+div.align {
+  width: 100%;
+}
+
+#gridForm {
+  float:left;
+}
+
+div > h2.center {
+  text-align: center;
+}

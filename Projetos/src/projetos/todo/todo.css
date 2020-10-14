@@ -1,0 +1,121 @@
+.Center {
+    text-align: center;
+}
+
+.todoApp {
+    width: 100%;
+}
+
+div.todoApp > div {
+    width: 100%;
+}
+
+.input {
+    width: 90%;
+    margin-right: 5px;
+    height: 35px;
+    vertical-align: middle;
+}
+
+.btn {
+    width: 4%;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+tr > td > a > i {
+    margin-right: 5px;
+}
+
+
+table {
+    width: 100%;
+    margin: 50px 0px 0px 0px;
+}
+
+th{
+    background-color: #a9a9a9d5;
+}
+
+tr {
+    background-color: #f0f0f0ac;
+    border: 1px solid #000000;
+}
+td {
+    border: 1px solid #000000;
+}
+
+.red {
+    color: #d80000;
+    text-shadow: 1px 1px 2px #4e0404;
+    box-shadow: 0px 0px 3px 0px #00000042;
+    background-color: #ffffff;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    vertical-align: middle;
+    line-height: 27px;
+}
+
+.red:hover{
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000;
+    background-color: #d80000;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    vertical-align: middle;
+    line-height: 27px;
+}
+
+.yellow {
+    color: #f79400;
+    text-shadow: 1px 1px 2px #6f5300;
+    box-shadow: 0px 0px 3px 0px #00000042;
+    background-color: #ffffff;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    vertical-align: middle;
+    line-height: 27px;
+}
+
+.yellow:hover{
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000;
+    background-color: #f79400;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    vertical-align: middle;
+    line-height: 27px;
+}
+
+.green {
+    color: #24a924;
+    text-shadow: 1px 1px 2px #003000;
+    box-shadow: 0px 0px 3px 0px #00000042;
+    background-color: #ffffff;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    vertical-align: middle;
+    line-height: 27px;
+}
+
+.green:hover{
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000;
+    background-color: #24a924;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    vertical-align: middle;
+    line-height: 27px;
+}

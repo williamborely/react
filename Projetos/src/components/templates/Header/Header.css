@@ -1,0 +1,8 @@
+nav a.navbar-brand {
+    margin-left: 30px;
+}
+
+nav a.navbar-brand strong {
+    font-size: 1.8rem;
+    line-height: 30px;
+}
